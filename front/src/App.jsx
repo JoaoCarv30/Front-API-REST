@@ -8,7 +8,7 @@ function App() {
     <section className="w-screen h-screen flex items-center justify-between overflow-hidden">
      <Form  />
      <div className="w-4/5 h-screen flex items-center justify-center bg-emerald-950">
-      <img src={bg} alt="" className="escurecer" />
+      <img src={bg} alt="" className="escurecer h-screen w-screen"  />
      </div>
     </section>
   )
